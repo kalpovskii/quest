@@ -105,7 +105,7 @@ function App() {
              </div>
              <div className="map">
                 <div className="map__img">
-                   <img src='./img/map.png' alt="map" className="map__img"/>
+                   <img src='./img/map2.png' alt="map" className="map__img"/>
                 </div>
                 <div className="map__footer-second">
                    <img src="./img/cat-p.png" alt="cat"
@@ -132,7 +132,7 @@ function App() {
                    <p className="title__description-quiz">выбрать место
                       на карте</p>
                    <img className="questions__quiz-img"
-                        src="./img/quiz_map.png" alt="map"/>
+                        src="./img/lapka.png" alt="map"/>
                    <button type="submit"
                            className="questions__quiz-btn">отправить
                    </button>

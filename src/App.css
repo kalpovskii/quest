@@ -166,6 +166,7 @@ h1 {
 }
 
 .questions__quiz-img {
+  border-radius: 20px;
   width: 362px;
   height: 362px;
   margin: 50px auto;
@@ -190,7 +191,7 @@ h1 {
 }
 
 .quiz__main {
-  margin: 30px auto 120px;
+  margin: 30px auto 70px;
   background: #ffffff;
   max-width: 711px;
   width: 100%;
