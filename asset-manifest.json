@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quest/static/css/main.fe5ce921.css",
+    "main.js": "/quest/static/js/main.47157633.js",
+    "static/media/gift.png": "/quest/static/media/gift.10128d5bc8b11486de84.png",
+    "static/media/nevskiy.png": "/quest/static/media/nevskiy.e6c8aca8b8d92091d2aa.png",
+    "static/media/second.jpg": "/quest/static/media/second.3ad5d934dfac875b4b6e.jpg",
+    "static/media/rybov.png": "/quest/static/media/rybov.5479d376dc5616c7d076.png",
+    "index.html": "/quest/index.html",
+    "main.fe5ce921.css.map": "/quest/static/css/main.fe5ce921.css.map",
+    "main.47157633.js.map": "/quest/static/js/main.47157633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5ce921.css",
+    "static/js/main.47157633.js"
+  ]
+}
