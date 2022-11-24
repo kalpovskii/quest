@@ -77,7 +77,8 @@ function App() {
              </div>
              <div className="map">
                 <div className="map__img">
-                   <img src='./img/map.png' alt="map" className="map__img"/>
+                   <iframe src="https://www.google.com/maps/d/embed?mid=1LGWtXXXKkq3eiskKgFs_zAitxxVGbwM&hl=en&ehbc=2E312F" width="100%" height="620px"></iframe>
+                   {/*<img src='./img/map.png' alt="map" className="map__img"/>*/}
                 </div>
                 <div className="map__footer">
                    <img src="./img/cat-logo.png" alt="cat"
@@ -105,7 +106,8 @@ function App() {
              </div>
              <div className="map">
                 <div className="map__img">
-                   <img src='./img/map2.png' alt="map" className="map__img"/>
+                   <iframe src="https://www.google.com/maps/d/embed?mid=1n1Ja-MmHdjGu6CpIOSW2wr7xAhAGLLk&hl=en&ehbc=2E312F" width="100%" height="620px"></iframe>
+                   {/*<img src='./img/map2.png' alt="map" className="map__img"/>*/}
                 </div>
                 <div className="map__footer-second">
                    <img src="./img/cat-p.png" alt="cat"

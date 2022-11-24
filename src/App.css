@@ -276,6 +276,10 @@ h1 {
 }
 
 @media screen and (max-width: 1200px) {
+  .map__img iframe {
+    height: 568px;
+  }
+
   .questions__quiz {
     display: flex;
     flex-direction: column;
@@ -288,6 +292,9 @@ h1 {
 }
 
 @media screen and (max-width: 992px) {
+  .map__img iframe {
+    height: 467px;
+  }
 
   h1 {
     font-size: 92px;
@@ -344,6 +351,10 @@ h1 {
 }
 
 @media screen and (max-width: 768px) {
+  .map__img iframe {
+    height: 358px;
+  }
+
   h1 {
     font-size: 76px;
   }
@@ -447,6 +458,10 @@ h1 {
 }
 
 @media screen and (max-width: 480px) {
+  .map__img iframe {
+    height: 216px;
+  }
+
   h1 {
     font-size: 64px;
     margin-bottom: 0;
